@@ -1,8 +1,8 @@
 # Hospital-Management-System
 
-# Reg No:
-# Name:
-# Date:
+# Reg No: 212225040499
+# Name: YASWANTH R
+# Date: 11/05/2026
 
 
 # AIM:
